@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "site": "Portofolio_React",
+    "public": "(Public)",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

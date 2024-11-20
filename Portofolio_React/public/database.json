@@ -1,0 +1,94 @@
+
+  {
+    "navbar": {
+      "logo": "MyProfile.",
+      "navLinks": [
+        "Home",
+        "About Me",
+        "Skills",
+        "Contact"
+      ],
+      "hamburgerMenu": "Menu"
+    },
+    "home": {
+      "greeting": "Hello, It's Me",
+      "name": "Violin Tuju",
+      "description": "And I'm a student of Computer Science",
+      "socialMedia": {
+        "facebook": "https://web.facebook.com/violin.violin.9461",
+        "whatsapp": "https://wa.me/+6285294797635/?text=Hello Violin",
+        "instagram": "https://www.instagram.com/violintt/",
+        "github": "https://github.com/violintuju"
+      },
+      "downloadCV": "Download CV"
+    },
+    "about": {
+      "heading": "I'm Violin",
+      "description": "Welcome to my portfolio! I’m Violin Tuju, a fifth-semester student majoring in Information Systems. I am passionate about technology, data management, and designing solutions that bridge the gap between business needs and IT. I enjoy learning new skills and continuously expanding my knowledge in areas like system analysis, database management, and digital transformation. My goal is to contribute to innovative projects that create impactful and efficient solutions in the field of Information Systems.",
+      "readMore": "Read More"
+    },
+    "skills": {
+      "technicalSkills": {
+        "heading": "Technical skills",
+        "skills": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "React"
+        ]
+      },
+      "professionalSkills": {
+        "heading": "Professional skills",
+        "skills": [
+          {
+            "name": "Creativity",
+            "percentage": "90%"
+          },
+          {
+            "name": "Communication",
+            "percentage": "65%"
+          },
+          {
+            "name": "Problem Solving",
+            "percentage": "75%"
+          },
+          {
+            "name": "Teamwork",
+            "percentage": "80%"
+          }
+        ]
+      }
+    },
+    "contact": {
+      "heading": "Contact Me!",
+      "form": {
+        "fullName": "Full Name",
+        "email": "Email Address",
+        "mobileNumber": "Mobile Number",
+        "emailSubject": "Email Subject",
+        "message": "Ketik Pesan",
+        "submit": "Kirim Pesan"
+      }
+    },
+    "footer": {
+      "copyright": "Copyright © 2024 by Violin Tuju | All Right Reserved.",
+      "backToTop": "Back to Top"
+    },
+  
+  "img": [
+    {
+      "src": "./img/codeW.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./img/violin.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://console.firebase.google.com/project/my-portofolio-9bafa/database/my-portofolio-9bafa-default-rtdb/data/~2F",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
